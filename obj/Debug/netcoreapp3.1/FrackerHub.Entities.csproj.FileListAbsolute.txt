@@ -1,0 +1,10 @@
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\bin\Debug\netcoreapp3.1\FrackerHub.Entities.deps.json
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\bin\Debug\netcoreapp3.1\FrackerHub.Entities.dll
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\bin\Debug\netcoreapp3.1\FrackerHub.Entities.pdb
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\obj\Debug\netcoreapp3.1\FrackerHub.Entities.csproj.AssemblyReference.cache
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\obj\Debug\netcoreapp3.1\FrackerHub.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\obj\Debug\netcoreapp3.1\FrackerHub.Entities.AssemblyInfoInputs.cache
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\obj\Debug\netcoreapp3.1\FrackerHub.Entities.AssemblyInfo.cs
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\obj\Debug\netcoreapp3.1\FrackerHub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\obj\Debug\netcoreapp3.1\FrackerHub.Entities.dll
+C:\Users\basha\source\repos\FrackerHubProject\FrackerHub.Entities\obj\Debug\netcoreapp3.1\FrackerHub.Entities.pdb
